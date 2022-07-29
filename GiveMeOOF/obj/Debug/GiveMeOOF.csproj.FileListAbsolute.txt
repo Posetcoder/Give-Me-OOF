@@ -1,0 +1,15 @@
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.csproj.AssemblyReference.cache
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.GiveMeOof.resources
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.Properties.Resources.resources
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.csproj.GenerateResource.cache
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.csproj.CoreCompileInputs.cache
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\GiveMeOOF.csproj.CopyComplete
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\bin\Debug\Give Me OOF.exe.config
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\bin\Debug\Give Me OOF.exe
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\bin\Debug\Give Me OOF.pdb
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\Give Me OOF.exe.licenses
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\Give Me OOF.exe
+C:\Users\Mehrad\source\repos\GiveMeOOF\GiveMeOOF\obj\Debug\Give Me OOF.pdb
