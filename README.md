@@ -8,3 +8,6 @@ If you want to change the sound in a specific version, uncheck the "Change all v
 
 # this is for windows
 only for windows. *MAYBE* I will work on mac and linux versions
+
+# Important
+this no longer works - and is also no longer needed. Roblox has the original oof sound readded. I will still be archiving this repository just to look back on.
